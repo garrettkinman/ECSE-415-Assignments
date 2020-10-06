@@ -9,4 +9,5 @@
 ## How It Was Run
 
 * I ran it locally in Jupyter Lab
-* Every time I imported an image, I used a line of the form `numbers_img = cv2.imread("./images/numbers.jpg")`; if you wish to run in google colab, mount to google drive and replace the path with the appropriate path
+* Every time I imported an image, I used a line of the form `numbers_img = cv2.imread("./images/numbers.jpg")`
+* If you wish to run in google colab, mount to google drive and replace the path with the appropriate path
